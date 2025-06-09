@@ -1,0 +1,337 @@
+Installing dependencies...
+Switching to root user to install dependencies...
+[sudo] password for nwball: 
+Hit:1 http://us.archive.ubuntu.com/ubuntu noble InRelease
+Hit:2 http://us.archive.ubuntu.com/ubuntu noble-updates InRelease                                                                   
+Hit:3 https://dl.google.com/linux/chrome/deb stable InRelease                                                                       
+Hit:4 http://us.archive.ubuntu.com/ubuntu noble-backports InRelease                                                 
+Hit:5 http://security.ubuntu.com/ubuntu noble-security InRelease                             
+Hit:6 https://esm.ubuntu.com/apps/ubuntu noble-apps-security InRelease 
+Hit:7 https://esm.ubuntu.com/apps/ubuntu noble-apps-updates InRelease
+Hit:8 https://esm.ubuntu.com/infra/ubuntu noble-infra-security InRelease
+Hit:9 https://esm.ubuntu.com/infra/ubuntu noble-infra-updates InRelease
+Reading package lists... Done
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+libasound2t64 is already the newest version (1.2.11-1build2).
+libatk-bridge2.0-0t64 is already the newest version (2.52.0-1build1).
+libatk1.0-0t64 is already the newest version (2.52.0-1build1).
+libatspi2.0-0t64 is already the newest version (2.52.0-1build1).
+libcairo2 is already the newest version (1.18.0-3build1).
+libcairo2 set to manually installed.
+libcups2t64 is already the newest version (2.4.7-1.2ubuntu7.3).
+libdbus-1-3 is already the newest version (1.14.10-4ubuntu4.1).
+libdbus-1-3 set to manually installed.
+libdrm2 is already the newest version (2.4.122-1~ubuntu0.24.04.1).
+libdrm2 set to manually installed.
+libgbm1 is already the newest version (24.2.8-1ubuntu1~24.04.1).
+libgbm1 set to manually installed.
+libglib2.0-0t64 is already the newest version (2.80.0-6ubuntu3.4).
+libnspr4 is already the newest version (2:4.35-1.1build1).
+libnspr4 set to manually installed.
+libnss3 is already the newest version (2:3.98-1build1).
+libnss3 set to manually installed.
+libpango-1.0-0 is already the newest version (1.52.1+ds-1build1).
+libpango-1.0-0 set to manually installed.
+libx11-6 is already the newest version (2:1.8.7-1build1).
+libx11-6 set to manually installed.
+libxcb1 is already the newest version (1.15-1ubuntu2).
+libxcb1 set to manually installed.
+libxcomposite1 is already the newest version (1:0.4.5-1build3).
+libxcomposite1 set to manually installed.
+libxdamage1 is already the newest version (1:1.1.6-1build1).
+libxdamage1 set to manually installed.
+libxext6 is already the newest version (2:1.3.4-1build2).
+libxext6 set to manually installed.
+libxfixes3 is already the newest version (1:6.0.0-2build1).
+libxfixes3 set to manually installed.
+libxkbcommon0 is already the newest version (1.6.0-1build1).
+libxkbcommon0 set to manually installed.
+libxrandr2 is already the newest version (2:1.5.2-2build1).
+libxrandr2 set to manually installed.
+libcairo-gobject2 is already the newest version (1.18.0-3build1).
+libcairo-gobject2 set to manually installed.
+libfontconfig1 is already the newest version (2.15.0-1.1ubuntu2).
+libfontconfig1 set to manually installed.
+libfreetype6 is already the newest version (2.13.2+dfsg-1build3).
+libfreetype6 set to manually installed.
+libgdk-pixbuf-2.0-0 is already the newest version (2.42.10+dfsg-3ubuntu3.1).
+libgdk-pixbuf-2.0-0 set to manually installed.
+libgtk-3-0t64 is already the newest version (3.24.41-4ubuntu1.3).
+libpangocairo-1.0-0 is already the newest version (1.52.1+ds-1build1).
+libpangocairo-1.0-0 set to manually installed.
+libx11-xcb1 is already the newest version (2:1.8.7-1build1).
+libx11-xcb1 set to manually installed.
+libxcb-shm0 is already the newest version (1.15-1ubuntu2).
+libxcb-shm0 set to manually installed.
+libxcursor1 is already the newest version (1:1.2.1-1build1).
+libxcursor1 set to manually installed.
+libxi6 is already the newest version (2:1.8.1-1build1).
+libxi6 set to manually installed.
+libxrender1 is already the newest version (1:0.9.10-1.1build1).
+libxrender1 set to manually installed.
+gstreamer1.0-plugins-bad is already the newest version (1.24.2-1ubuntu4+esm1).
+gstreamer1.0-plugins-bad set to manually installed.
+gstreamer1.0-plugins-base is already the newest version (1.24.2-1ubuntu0.2).
+gstreamer1.0-plugins-base set to manually installed.
+gstreamer1.0-plugins-good is already the newest version (1.24.2-1ubuntu1.1).
+gstreamer1.0-plugins-good set to manually installed.
+libicu74 is already the newest version (74.2-1ubuntu3.1).
+libicu74 set to manually installed.
+libatomic1 is already the newest version (14.2.0-4ubuntu2~24.04).
+libatomic1 set to manually installed.
+libenchant-2-2 is already the newest version (2.3.3-2build2).
+libenchant-2-2 set to manually installed.
+libepoxy0 is already the newest version (1.5.10-1build1).
+libepoxy0 set to manually installed.
+libevent-2.1-7t64 is already the newest version (2.1.12-stable-9ubuntu2).
+libflite1 is already the newest version (2.2-6build3).
+libflite1 set to manually installed.
+libgles2 is already the newest version (1.7.0-1build1).
+libgles2 set to manually installed.
+libgstreamer-gl1.0-0 is already the newest version (1.24.2-1ubuntu0.2).
+libgstreamer-gl1.0-0 set to manually installed.
+libgstreamer-plugins-bad1.0-0 is already the newest version (1.24.2-1ubuntu4+esm1).
+libgstreamer-plugins-bad1.0-0 set to manually installed.
+libgstreamer-plugins-base1.0-0 is already the newest version (1.24.2-1ubuntu0.2).
+libgstreamer-plugins-base1.0-0 set to manually installed.
+libgstreamer1.0-0 is already the newest version (1.24.2-1ubuntu0.1).
+libgstreamer1.0-0 set to manually installed.
+libharfbuzz-icu0 is already the newest version (8.3.0-2build2).
+libharfbuzz-icu0 set to manually installed.
+libharfbuzz0b is already the newest version (8.3.0-2build2).
+libharfbuzz0b set to manually installed.
+libhyphen0 is already the newest version (2.8.8-7build3).
+libhyphen0 set to manually installed.
+libjpeg-turbo8 is already the newest version (2.1.5-2ubuntu2).
+libjpeg-turbo8 set to manually installed.
+liblcms2-2 is already the newest version (2.14-2build1).
+liblcms2-2 set to manually installed.
+libmanette-0.2-0 is already the newest version (0.2.7-1build2).
+libmanette-0.2-0 set to manually installed.
+libopus0 is already the newest version (1.4-1build1).
+libopus0 set to manually installed.
+libpng16-16t64 is already the newest version (1.6.43-5build1).
+libsecret-1-0 is already the newest version (0.21.4-1build3).
+libsecret-1-0 set to manually installed.
+libvpx9 is already the newest version (1.14.0-1ubuntu2.2).
+libvpx9 set to manually installed.
+libwayland-client0 is already the newest version (1.22.0-2.1build1).
+libwayland-client0 set to manually installed.
+libwayland-egl1 is already the newest version (1.22.0-2.1build1).
+libwayland-egl1 set to manually installed.
+libwayland-server0 is already the newest version (1.22.0-2.1build1).
+libwayland-server0 set to manually installed.
+libwebp7 is already the newest version (1.3.2-0.4build3).
+libwebp7 set to manually installed.
+libwebpdemux2 is already the newest version (1.3.2-0.4build3).
+libwebpdemux2 set to manually installed.
+libwoff1 is already the newest version (1.0.2-2build1).
+libwoff1 set to manually installed.
+libxml2 is already the newest version (2.9.14+dfsg-1.3ubuntu3.3).
+libxml2 set to manually installed.
+libxslt1.1 is already the newest version (1.1.39-0exp1ubuntu0.24.04.2).
+libxslt1.1 set to manually installed.
+libx264-164 is already the newest version (2:0.164.3108+git31e19f9-1).
+libx264-164 set to manually installed.
+fonts-noto-color-emoji is already the newest version (2.047-0ubuntu0.24.04.1).
+xfonts-scalable is already the newest version (1:1.0.3-1.3).
+xfonts-scalable set to manually installed.
+fonts-liberation is already the newest version (1:2.1.5-3).
+fonts-freefont-ttf is already the newest version (20211204+svn4273-2).
+The following packages were automatically installed and are no longer required:
+  libllvm17t64 python3-netifaces
+Use 'sudo apt autoremove' to remove them.
+The following additional packages will be installed:
+  libavfilter9 libavformat60 libblas3 libbluray2 libcjson1 libgav1-1 libgfortran5 liblapack3 libmbedcrypto7t64 libmysofa1 libplacebo338 libpocketsphinx3 libpostproc57 librabbitmq4
+  librist4 librubberband2 libsphinxbase3t64 libssh-gcrypt-4 libswscale7 libudfread0 libvidstab1.1 libyuv0 libzimg2 libzmq5
+Suggested packages:
+  libbluray-bdj
+Recommended packages:
+  fonts-ipafont-mincho libaacs0 pocketsphinx-en-us
+The following NEW packages will be installed:
+  fonts-ipafont-gothic fonts-tlwg-loma-otf fonts-unifont fonts-wqy-zenhei gstreamer1.0-libav libavfilter9 libavformat60 libavif16 libblas3 libbluray2 libcjson1 libgav1-1 libgfortran5
+  liblapack3 libmbedcrypto7t64 libmysofa1 libplacebo338 libpocketsphinx3 libpostproc57 librabbitmq4 librist4 librubberband2 libsphinxbase3t64 libssh-gcrypt-4 libswscale7 libudfread0
+  libvidstab1.1 libyuv0 libzimg2 libzmq5 xfonts-cyrillic xvfb
+0 upgraded, 32 newly installed, 0 to remove and 16 not upgraded.
+Need to get 31.0 MB of archives.
+After this operation, 111 MB of additional disk space will be used.
+Get:1 http://us.archive.ubuntu.com/ubuntu noble/universe amd64 fonts-ipafont-gothic all 00303-21ubuntu1 [3,513 kB]
+Get:2 https://esm.ubuntu.com/apps/ubuntu noble-apps-security/main amd64 libcjson1 amd64 1.7.17-1ubuntu0.1~esm2 [21.9 kB]
+Get:3 http://us.archive.ubuntu.com/ubuntu noble/universe amd64 fonts-tlwg-loma-otf all 1:0.7.3-1 [107 kB]
+Get:4 http://us.archive.ubuntu.com/ubuntu noble/universe amd64 fonts-unifont all 1:15.1.01-1build1 [2,993 kB]
+Get:5 http://us.archive.ubuntu.com/ubuntu noble/universe amd64 fonts-wqy-zenhei all 0.9.45-8 [7,472 kB]
+Get:6 https://esm.ubuntu.com/apps/ubuntu noble-apps-security/main amd64 libavformat60 amd64 7:6.1.1-3ubuntu5+esm3 [1,154 kB]
+Get:7 http://us.archive.ubuntu.com/ubuntu noble/universe amd64 libudfread0 amd64 1.1.2-1build1 [19.0 kB]
+Get:8 http://us.archive.ubuntu.com/ubuntu noble/universe amd64 libbluray2 amd64 1:1.3.4-1build1 [159 kB]
+Get:9 http://us.archive.ubuntu.com/ubuntu noble/main amd64 librabbitmq4 amd64 0.11.0-1build2 [37.4 kB]
+Get:10 http://us.archive.ubuntu.com/ubuntu noble/universe amd64 libmbedcrypto7t64 amd64 2.28.8-1 [209 kB]
+Get:11 http://us.archive.ubuntu.com/ubuntu noble/universe amd64 librist4 amd64 0.2.10+dfsg-2 [74.9 kB]
+Get:12 http://us.archive.ubuntu.com/ubuntu noble/main amd64 libssh-gcrypt-4 amd64 0.10.6-2build2 [223 kB]
+Get:13 http://us.archive.ubuntu.com/ubuntu noble/universe amd64 libzmq5 amd64 4.3.5-1build2 [260 kB]
+Get:14 http://us.archive.ubuntu.com/ubuntu noble/universe amd64 libmysofa1 amd64 1.3.2+dfsg-2ubuntu2 [1,158 kB]
+Get:15 http://us.archive.ubuntu.com/ubuntu noble/universe amd64 libplacebo338 amd64 6.338.2-2build1 [2,654 kB]
+Get:16 http://us.archive.ubuntu.com/ubuntu noble-updates/main amd64 libblas3 amd64 3.12.0-3build1.1 [238 kB]
+Get:17 http://us.archive.ubuntu.com/ubuntu noble-updates/main amd64 libgfortran5 amd64 14.2.0-4ubuntu2~24.04 [916 kB]
+Get:18 http://us.archive.ubuntu.com/ubuntu noble-updates/main amd64 liblapack3 amd64 3.12.0-3build1.1 [2,646 kB]
+Get:19 https://esm.ubuntu.com/apps/ubuntu noble-apps-security/main amd64 libpostproc57 amd64 7:6.1.1-3ubuntu5+esm3 [49.9 kB]
+Get:20 https://esm.ubuntu.com/apps/ubuntu noble-apps-security/main amd64 libswscale7 amd64 7:6.1.1-3ubuntu5+esm3 [193 kB]
+Get:21 https://esm.ubuntu.com/apps/ubuntu noble-apps-security/main amd64 libavfilter9 amd64 7:6.1.1-3ubuntu5+esm3 [4,235 kB]
+Get:22 http://us.archive.ubuntu.com/ubuntu noble/universe amd64 libsphinxbase3t64 amd64 0.8+5prealpha+1-17build2 [126 kB]
+Get:23 http://us.archive.ubuntu.com/ubuntu noble/universe amd64 libpocketsphinx3 amd64 0.8.0+real5prealpha+1-15ubuntu5 [133 kB]
+Get:24 http://us.archive.ubuntu.com/ubuntu noble/universe amd64 librubberband2 amd64 3.3.0+dfsg-2build1 [130 kB]
+Get:25 http://us.archive.ubuntu.com/ubuntu noble/universe amd64 libvidstab1.1 amd64 1.1.0-2build1 [38.5 kB]
+Get:26 http://us.archive.ubuntu.com/ubuntu noble/universe amd64 libzimg2 amd64 3.0.5+ds1-1build1 [254 kB]
+Get:27 http://us.archive.ubuntu.com/ubuntu noble/universe amd64 gstreamer1.0-libav amd64 1.24.1-1build1 [103 kB]
+Get:28 http://us.archive.ubuntu.com/ubuntu noble/universe amd64 libgav1-1 amd64 0.18.0-1build3 [357 kB]
+Get:29 http://us.archive.ubuntu.com/ubuntu noble/universe amd64 libyuv0 amd64 0.0~git202401110.af6ac82-1 [178 kB]
+Get:30 http://us.archive.ubuntu.com/ubuntu noble/universe amd64 libavif16 amd64 1.0.4-1ubuntu3 [91.2 kB]
+Get:31 http://us.archive.ubuntu.com/ubuntu noble/universe amd64 xfonts-cyrillic all 1:1.0.5+nmu1 [384 kB]
+Get:32 http://us.archive.ubuntu.com/ubuntu noble-updates/universe amd64 xvfb amd64 2:21.1.12-1ubuntu1.3 [878 kB]
+Fetched 31.0 MB in 3s (10.3 MB/s)                                      
+Extracting templates from packages: 100%
+Selecting previously unselected package fonts-ipafont-gothic.
+(Reading database ... 263230 files and directories currently installed.)
+Preparing to unpack .../00-fonts-ipafont-gothic_00303-21ubuntu1_all.deb ...
+Unpacking fonts-ipafont-gothic (00303-21ubuntu1) ...
+Selecting previously unselected package fonts-tlwg-loma-otf.
+Preparing to unpack .../01-fonts-tlwg-loma-otf_1%3a0.7.3-1_all.deb ...
+Unpacking fonts-tlwg-loma-otf (1:0.7.3-1) ...
+Selecting previously unselected package fonts-unifont.
+Preparing to unpack .../02-fonts-unifont_1%3a15.1.01-1build1_all.deb ...
+Unpacking fonts-unifont (1:15.1.01-1build1) ...
+Selecting previously unselected package fonts-wqy-zenhei.
+Preparing to unpack .../03-fonts-wqy-zenhei_0.9.45-8_all.deb ...
+Unpacking fonts-wqy-zenhei (0.9.45-8) ...
+Selecting previously unselected package libudfread0:amd64.
+Preparing to unpack .../04-libudfread0_1.1.2-1build1_amd64.deb ...
+Unpacking libudfread0:amd64 (1.1.2-1build1) ...
+Selecting previously unselected package libbluray2:amd64.
+Preparing to unpack .../05-libbluray2_1%3a1.3.4-1build1_amd64.deb ...
+Unpacking libbluray2:amd64 (1:1.3.4-1build1) ...
+Selecting previously unselected package librabbitmq4:amd64.
+Preparing to unpack .../06-librabbitmq4_0.11.0-1build2_amd64.deb ...
+Unpacking librabbitmq4:amd64 (0.11.0-1build2) ...
+Selecting previously unselected package libcjson1:amd64.
+Preparing to unpack .../07-libcjson1_1.7.17-1ubuntu0.1~esm2_amd64.deb ...
+Unpacking libcjson1:amd64 (1.7.17-1ubuntu0.1~esm2) ...
+Selecting previously unselected package libmbedcrypto7t64:amd64.
+Preparing to unpack .../08-libmbedcrypto7t64_2.28.8-1_amd64.deb ...
+Unpacking libmbedcrypto7t64:amd64 (2.28.8-1) ...
+Selecting previously unselected package librist4:amd64.
+Preparing to unpack .../09-librist4_0.2.10+dfsg-2_amd64.deb ...
+Unpacking librist4:amd64 (0.2.10+dfsg-2) ...
+Selecting previously unselected package libssh-gcrypt-4:amd64.
+Preparing to unpack .../10-libssh-gcrypt-4_0.10.6-2build2_amd64.deb ...
+Unpacking libssh-gcrypt-4:amd64 (0.10.6-2build2) ...
+Selecting previously unselected package libzmq5:amd64.
+Preparing to unpack .../11-libzmq5_4.3.5-1build2_amd64.deb ...
+Unpacking libzmq5:amd64 (4.3.5-1build2) ...
+Selecting previously unselected package libavformat60:amd64.
+Preparing to unpack .../12-libavformat60_7%3a6.1.1-3ubuntu5+esm3_amd64.deb ...
+Unpacking libavformat60:amd64 (7:6.1.1-3ubuntu5+esm3) ...
+Selecting previously unselected package libmysofa1:amd64.
+Preparing to unpack .../13-libmysofa1_1.3.2+dfsg-2ubuntu2_amd64.deb ...
+Unpacking libmysofa1:amd64 (1.3.2+dfsg-2ubuntu2) ...
+Selecting previously unselected package libplacebo338:amd64.
+Preparing to unpack .../14-libplacebo338_6.338.2-2build1_amd64.deb ...
+Unpacking libplacebo338:amd64 (6.338.2-2build1) ...
+Selecting previously unselected package libblas3:amd64.
+Preparing to unpack .../15-libblas3_3.12.0-3build1.1_amd64.deb ...
+Unpacking libblas3:amd64 (3.12.0-3build1.1) ...
+Selecting previously unselected package libgfortran5:amd64.
+Preparing to unpack .../16-libgfortran5_14.2.0-4ubuntu2~24.04_amd64.deb ...
+Unpacking libgfortran5:amd64 (14.2.0-4ubuntu2~24.04) ...
+Selecting previously unselected package liblapack3:amd64.
+Preparing to unpack .../17-liblapack3_3.12.0-3build1.1_amd64.deb ...
+Unpacking liblapack3:amd64 (3.12.0-3build1.1) ...
+Selecting previously unselected package libsphinxbase3t64:amd64.
+Preparing to unpack .../18-libsphinxbase3t64_0.8+5prealpha+1-17build2_amd64.deb ...
+Unpacking libsphinxbase3t64:amd64 (0.8+5prealpha+1-17build2) ...
+Selecting previously unselected package libpocketsphinx3:amd64.
+Preparing to unpack .../19-libpocketsphinx3_0.8.0+real5prealpha+1-15ubuntu5_amd64.deb ...
+Unpacking libpocketsphinx3:amd64 (0.8.0+real5prealpha+1-15ubuntu5) ...
+Selecting previously unselected package libpostproc57:amd64.
+Preparing to unpack .../20-libpostproc57_7%3a6.1.1-3ubuntu5+esm3_amd64.deb ...
+Unpacking libpostproc57:amd64 (7:6.1.1-3ubuntu5+esm3) ...
+Selecting previously unselected package librubberband2:amd64.
+Preparing to unpack .../21-librubberband2_3.3.0+dfsg-2build1_amd64.deb ...
+Unpacking librubberband2:amd64 (3.3.0+dfsg-2build1) ...
+Selecting previously unselected package libswscale7:amd64.
+Preparing to unpack .../22-libswscale7_7%3a6.1.1-3ubuntu5+esm3_amd64.deb ...
+Unpacking libswscale7:amd64 (7:6.1.1-3ubuntu5+esm3) ...
+Selecting previously unselected package libvidstab1.1:amd64.
+Preparing to unpack .../23-libvidstab1.1_1.1.0-2build1_amd64.deb ...
+Unpacking libvidstab1.1:amd64 (1.1.0-2build1) ...
+Selecting previously unselected package libzimg2:amd64.
+Preparing to unpack .../24-libzimg2_3.0.5+ds1-1build1_amd64.deb ...
+Unpacking libzimg2:amd64 (3.0.5+ds1-1build1) ...
+Selecting previously unselected package libavfilter9:amd64.
+Preparing to unpack .../25-libavfilter9_7%3a6.1.1-3ubuntu5+esm3_amd64.deb ...
+Unpacking libavfilter9:amd64 (7:6.1.1-3ubuntu5+esm3) ...
+Selecting previously unselected package gstreamer1.0-libav:amd64.
+Preparing to unpack .../26-gstreamer1.0-libav_1.24.1-1build1_amd64.deb ...
+Unpacking gstreamer1.0-libav:amd64 (1.24.1-1build1) ...
+Selecting previously unselected package libgav1-1:amd64.
+Preparing to unpack .../27-libgav1-1_0.18.0-1build3_amd64.deb ...
+Unpacking libgav1-1:amd64 (0.18.0-1build3) ...
+Selecting previously unselected package libyuv0:amd64.
+Preparing to unpack .../28-libyuv0_0.0~git202401110.af6ac82-1_amd64.deb ...
+Unpacking libyuv0:amd64 (0.0~git202401110.af6ac82-1) ...
+Selecting previously unselected package libavif16:amd64.
+Preparing to unpack .../29-libavif16_1.0.4-1ubuntu3_amd64.deb ...
+Unpacking libavif16:amd64 (1.0.4-1ubuntu3) ...
+Selecting previously unselected package xfonts-cyrillic.
+Preparing to unpack .../30-xfonts-cyrillic_1%3a1.0.5+nmu1_all.deb ...
+Unpacking xfonts-cyrillic (1:1.0.5+nmu1) ...
+Selecting previously unselected package xvfb.
+Preparing to unpack .../31-xvfb_2%3a21.1.12-1ubuntu1.3_amd64.deb ...
+Unpacking xvfb (2:21.1.12-1ubuntu1.3) ...
+Setting up libssh-gcrypt-4:amd64 (0.10.6-2build2) ...
+Setting up libudfread0:amd64 (1.1.2-1build1) ...
+Setting up librabbitmq4:amd64 (0.11.0-1build2) ...
+Setting up libzmq5:amd64 (4.3.5-1build2) ...
+Setting up libmbedcrypto7t64:amd64 (2.28.8-1) ...
+Setting up xvfb (2:21.1.12-1ubuntu1.3) ...
+Setting up libmysofa1:amd64 (1.3.2+dfsg-2ubuntu2) ...
+Setting up fonts-wqy-zenhei (0.9.45-8) ...
+Setting up libcjson1:amd64 (1.7.17-1ubuntu0.1~esm2) ...
+Setting up librist4:amd64 (0.2.10+dfsg-2) ...
+Setting up libblas3:amd64 (3.12.0-3build1.1) ...
+update-alternatives: using /usr/lib/x86_64-linux-gnu/blas/libblas.so.3 to provide /usr/lib/x86_64-linux-gnu/libblas.so.3 (libblas.so.3-x86_64-linux-gnu) in auto mode
+Setting up libplacebo338:amd64 (6.338.2-2build1) ...
+Setting up fonts-tlwg-loma-otf (1:0.7.3-1) ...
+Setting up libgav1-1:amd64 (0.18.0-1build3) ...
+Setting up libgfortran5:amd64 (14.2.0-4ubuntu2~24.04) ...
+Setting up librubberband2:amd64 (3.3.0+dfsg-2build1) ...
+Setting up libvidstab1.1:amd64 (1.1.0-2build1) ...
+Setting up fonts-ipafont-gothic (00303-21ubuntu1) ...
+update-alternatives: using /usr/share/fonts/opentype/ipafont-gothic/ipag.ttf to provide /usr/share/fonts/truetype/fonts-japanese-gothic.ttf (fonts-japanese-gothic.ttf) in auto mode
+Setting up xfonts-cyrillic (1:1.0.5+nmu1) ...
+Setting up libpostproc57:amd64 (7:6.1.1-3ubuntu5+esm3) ...
+Setting up libzimg2:amd64 (3.0.5+ds1-1build1) ...
+Setting up libbluray2:amd64 (1:1.3.4-1build1) ...
+Setting up libyuv0:amd64 (0.0~git202401110.af6ac82-1) ...
+Setting up libswscale7:amd64 (7:6.1.1-3ubuntu5+esm3) ...
+Setting up fonts-unifont (1:15.1.01-1build1) ...
+Setting up libavif16:amd64 (1.0.4-1ubuntu3) ...
+Setting up liblapack3:amd64 (3.12.0-3build1.1) ...
+update-alternatives: using /usr/lib/x86_64-linux-gnu/lapack/liblapack.so.3 to provide /usr/lib/x86_64-linux-gnu/liblapack.so.3 (liblapack.so.3-x86_64-linux-gnu) in auto mode
+Setting up libavformat60:amd64 (7:6.1.1-3ubuntu5+esm3) ...
+Setting up libsphinxbase3t64:amd64 (0.8+5prealpha+1-17build2) ...
+Setting up libpocketsphinx3:amd64 (0.8.0+real5prealpha+1-15ubuntu5) ...
+Setting up libavfilter9:amd64 (7:6.1.1-3ubuntu5+esm3) ...
+Setting up gstreamer1.0-libav:amd64 (1.24.1-1build1) ...
+Processing triggers for libc-bin (2.39-0ubuntu8.4) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+Processing triggers for fontconfig (2.15.0-1.1ubuntu2) ...
+Downloading Chromium 131.0.6778.33 (playwright build v1148) from https://playwright.azureedge.net/builds/chromium/1148/chromium-linux.zip
+161.3 MiB [====================] 100% 0.0s
+Chromium 131.0.6778.33 (playwright build v1148) downloaded to /home/nwball/.cache/ms-playwright/chromium-1148
+Downloading FFMPEG playwright build v1010 from https://playwright.azureedge.net/builds/ffmpeg/1010/ffmpeg-linux.zip
+2.3 MiB [====================] 100% 0.0s
+FFMPEG playwright build v1010 downloaded to /home/nwball/.cache/ms-playwright/ffmpeg-1010
+Downloading Chromium Headless Shell 131.0.6778.33 (playwright build v1148) from https://playwright.azureedge.net/builds/chromium/1148/chromium-headless-shell-linux.zip
+100.9 MiB [====================] 100% 0.0s
+Chromium Headless Shell 131.0.6778.33 (playwright build v1148) downloaded to /home/nwball/.cache/ms-playwright/chromium_headless_shell-1148
